@@ -1,0 +1,4 @@
+name = "DynareProject"
+uuid = "19a35d02-87c3-4c9f-abac-51774447f68a"
+authors = ["Jaan Erik Pihel <jaanerik.pihel@gmail.com>"]
+version = "0.1.0"
